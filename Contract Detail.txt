@@ -1,0 +1,7 @@
+Deployed on BSC
+
+Factory Contract Address: 0xFf86B8aa9EfC7095bBA85551fFA871EC376abC0c
+
+NFT Contract Address: 0x5B6FEe74B26Cbe227A0D72977c5D5b6a902a66c4
+
+Marketplace Contract Address: 0xe95F928ca79D049C1d904c7b8DDf72fd7c7940f0
